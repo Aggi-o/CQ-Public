@@ -13,4 +13,7 @@ Record changes to the repository
 git push origin branchname
 Update remote refs along with associated objects
 
+git push
+Incorporates changes from a remote repository into the current branch.
+
 #add further commands
