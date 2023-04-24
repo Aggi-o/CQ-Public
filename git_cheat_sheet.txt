@@ -1,3 +1,6 @@
+git init
+initializ git repository
+
 git add file1 file2
 add files to git repo
 
