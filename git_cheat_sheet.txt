@@ -1,0 +1,11 @@
+git add file1 file2
+add files to git repo
+
+git status
+Show the working tree status
+
+git commit -m "init commit"
+Record changes to the repository
+
+git push origin branchname
+Update remote refs along with associated objects
